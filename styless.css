@@ -1,0 +1,26 @@
+body{
+    background: #b6e1e0;
+}
+.Header h1{
+    color: #e8630a;
+    text-align: center;
+    border-style: solid;
+    border-color: #2b4353;
+    text-decoration: underline;
+    font-size: 30px;
+}
+.container{
+    text-align: center;
+    margin: auto;
+}
+.container p{
+    font-size: 20px;
+}
+.container img{
+    width: 400px;
+    height: 300px;
+}
+
+.content{
+    padding: 15px;
+}
